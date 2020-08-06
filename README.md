@@ -14,9 +14,16 @@
 ####  function.
 #### Basics of Class.
 #### DOM.
+##### 1.document.getElemementByID.
+##### 2.document.querySelector.
+##### 3.document.querySelectorALL.
+##### 4.document.getElementByClassName.
+##### 5.document.getElementByTagName.
+
 
 
 ### A Small Mini Project using Dom
+
 
 
 
