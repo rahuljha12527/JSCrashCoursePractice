@@ -2,6 +2,6 @@
 
 
 
-##Practice from variable declaration to understanding how dom work
+## Practice from variable declaration to understanding how dom work
 
-###Topics
+### Topics
